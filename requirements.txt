@@ -1,0 +1,5 @@
+apache-airflow
+pandas
+glob2
+xml-python
+detect-delimiter
