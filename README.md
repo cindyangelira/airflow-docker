@@ -7,7 +7,7 @@ This project demonstrates how to set up an ETL (Extract, Transform, Load) pipeli
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/cindyangelira/airflow-docker.git
     ```
 
 2. Navigate to the project directory:
